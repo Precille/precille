@@ -1,0 +1,39 @@
+.soto{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+.lahat{
+    text-align: right;
+    background-color: khaki ;
+    font-size: 30px;
+}
+.suns{
+    background-repeat: repeat-y;
+}
+.backg{
+    background-color: wheat;
+}
+.hue{
+    color: orange; 
+    text-align: center; 
+    font-size: 30px; 
+    font-family: courier;
+    border-width: 10px;
+    border-style: outset;
+    margin: auto;
+    width: 50%;
+    box-shadow: 5px 5px 10px 2px;
+}
+button{
+    font-size: 30px;
+     background-color: red;
+    color: white;
+    border-radius: 30px;
+    width: 150px;
+    height: 50px;
+    border-style: outset;
+    border-color: #ffffff;
+    background-color: rgba(255,0,0,0.5);
+}
